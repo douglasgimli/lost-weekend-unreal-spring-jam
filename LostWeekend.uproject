@@ -88,5 +88,18 @@
 			"Name": "GearVR",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"HTML5",
+		"IOS",
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"PS4",
+		"Switch",
+		"TVOS",
+		"WindowsNoEditor",
+		"XboxOne"
 	]
 }
