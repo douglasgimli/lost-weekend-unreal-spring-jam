@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.LostWeekend;
+package com.lostweekend.baddayraccoon;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

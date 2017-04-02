@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.LostWeekend;
+package com.lostweekend.baddayraccoon;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

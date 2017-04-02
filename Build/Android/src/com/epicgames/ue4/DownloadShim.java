@@ -1,7 +1,7 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.LostWeekend.OBBDownloaderService;
-import com.YourCompany.LostWeekend.DownloaderActivity;
+import com.lostweekend.baddayraccoon.OBBDownloaderService;
+import com.lostweekend.baddayraccoon.DownloaderActivity;
 
 
 public class DownloadShim
