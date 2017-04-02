@@ -358,9 +358,9 @@
 "../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 357
 "../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 358
 "../../../LostWeekend/Content/Maps/InitialMap.umap" 359
-"../../../LostWeekend/Content/Textures/Esquilo/Esquilo_BaseColor.uasset" 360
-"../../../LostWeekend/Content/Textures/Esquilo/Esquilo_Normal.uasset" 361
-"../../../LostWeekend/Content/Textures/Esquilo/Esquilo_OcclusionRoughnessMetallic.uasset" 362
+"../../../LostWeekend/Content/Textures/Esquilo/esquilo_v03_low_initialShadingGroup_BaseColor.uasset" 360
+"../../../LostWeekend/Content/Textures/Esquilo/esquilo_v03_low_initialShadingGroup_Normal.uasset" 361
+"../../../LostWeekend/Content/Textures/Esquilo/esquilo_v03_low_initialShadingGroup_OcclusionRoughnessMetallic.uasset" 362
 "../../../LostWeekend/Content/Materials/M_Esquilo.uasset" 363
 "../../../LostWeekend/Content/Meshes/Esquilo/esquilo_v04.uasset" 364
 "../../../LostWeekend/Content/Blueprints/BP_Enemy.uasset" 365
